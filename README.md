@@ -1,4 +1,4 @@
-# cryptocurrencyicon
+# crypto currency icons
 
 crypto currency icon svg 
 
